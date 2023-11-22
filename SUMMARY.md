@@ -2,7 +2,8 @@
 
 ## APIM
 
-* [APIM 톺아보기](README.md)
+* [문의하기](README.md)
+* [APIM 톺아보기](<README (1).md>)
 
 ## 사용자 관리콘솔
 
