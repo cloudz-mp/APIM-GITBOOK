@@ -4,7 +4,7 @@ description: APIM에 등록된 API의 로그 기능을 알아봅니다.
 
 # Logging
 
-SSO 인증을 이용하는 경우 아래의 사진과 같이 테넌트 변경을 진행하여 APIM 로깅을 확인을 위한 컨텍스트로 변경합니다.
+SSO 인증을 이용하는 경우 아래의 사진과 같이 테넌트 변경을 진행하여 APIM 로깅을 확인을 위한 컨텍스트로 변경합니다. SSO 인증을 사용하지 않는 경우 이 단계를 건너뜁니다.
 
 <figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
