@@ -56,5 +56,6 @@
   * [Product 관리](undefined-1/undefined-1/product.md)
   * [API 사용 요청 관리](undefined-1/undefined-1/api.md)
   * [개발자 포탈 설정](undefined-1/undefined-1/undefined.md)
-* [프로젝트 관리자의 역할](undefined-1/undefined-2.md)
-* [프로젝트 멤버의 역할](undefined-1/undefined-3.md)
+* [개발자 포탈 멤버의 역할](undefined-1/undefined-2.md)
+* [프로젝트 관리자의 역할](undefined-1/undefined-3.md)
+* [프로젝트 멤버의 역할](undefined-1/undefined-4.md)

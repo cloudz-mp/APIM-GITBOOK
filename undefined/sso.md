@@ -26,4 +26,4 @@ ZCP와 함께 사용하는 경우, `시스템 사용자 가져오기`를 통해�
 
 부여하고자 하는 권한의 좌측 체크 박스에 체크하고, `시스템 사용자 권한 설정 및 가져오기`를 진행합니다.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>

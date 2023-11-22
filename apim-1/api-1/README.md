@@ -4,7 +4,7 @@ description: 이미 배포된 API를 조회합니다.
 
 # API 배포 현황
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 배포된 API를 조회합니다.
 
