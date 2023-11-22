@@ -28,7 +28,7 @@ API 정책에 대한 자세한 내용은 API 정책 문서를 참고합니다.
 
 ## API 문서
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 오른쪽 위의 `SWAGGER 가져오기` 버튼을 눌러 API 생성 단계에서 지정한 Swagger path 호출을 통하여 문서를 불러올 수 있습니다. API 최초 생성 시, 올바른 경로를 설정하고 해당 문서가 존재한다면 자동으로 불러옵니다.
 
