@@ -10,4 +10,4 @@ API 상세 화면과 같은 구성을 두지만, 편집할 수 없습니다. 이
 
 <figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
-배포 이력을 눌러 구성을 확인하고 \`선택 버전 배포 버튼으로 같은 구성으로 재배포 할 수 있습니다.
+배포 이력을 눌러 구성을 확인하고 <mark style="background-color:blue;">선택 버전 배포</mark> 버튼으로 같은 구성으로 재배포 할 수 있습니다.

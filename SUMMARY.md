@@ -56,7 +56,7 @@
   * [Product 관리](undefined-1/undefined-1/product.md)
   * [API 사용 요청 관리](undefined-1/undefined-1/api.md)
   * [개발자 포탈 설정](undefined-1/undefined-1/undefined.md)
-* [개발자 포탈 멤버의 역할](undefined-1/undefined-2/README.md)
+* [개발자 포탈 멤버의 역할](undefined-1/undefined-2.md)
   * [기본 정보](undefined-1/undefined-2/undefined.md)
   * [API KEY](undefined-1/undefined-2/api-key.md)
   * [API 사용](undefined-1/undefined-2/api.md)

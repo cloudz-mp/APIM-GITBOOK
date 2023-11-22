@@ -2,7 +2,7 @@
 
 게이트웨이 생성을 진행합니다.
 
-이름, 설명, 태그를 지정하고 게이트웨이의 클러스터 등 스펙을 설정합니다.
+**이름**, **설명**, **태그를** 지정하고 게이트웨이의 클러스터 등 스펙을 설정합니다.
 
 <figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
@@ -10,19 +10,19 @@
 
 > 따라해보기.
 >
-> Gateway 이름: gateway-00
+> Gateway 이름: <mark style="background-color:red;">gateway-00</mark>
 >
-> 모든 CPU와 Memory: 500
+> 모든 CPU와 Memory: <mark style="background-color:red;">500</mark>
 >
-> Kong Cluster: \<YOUR\_CLUSTER>
+> Kong Cluster: <mark style="background-color:red;">\<YOUR\_CLUSTER></mark>
 >
-> Kong Namespace: \<YOUR\_NAMESPACE>
+> Kong Namespace: <mark style="background-color:red;">\<YOUR\_NAMESPACE></mark>
 >
-> Kong Storage Class: \<YOUR\_STORAGE\_CLASS>
+> Kong Storage Class: <mark style="background-color:red;">\<YOUR\_STORAGE\_CLASS></mark>
 >
-> Storage capacity: 5
+> Storage capacity: <mark style="background-color:red;">5</mark>
 >
-> Inner Redis: ON
+> Inner Redis: <mark style="background-color:red;">ON</mark>
 >
-> 우측 하단의 \`GATEWAY 생성\` 버튼 클릭
+> 우측 하단의 <mark style="background-color:blue;">GATEWAY 생성</mark> 버튼 클릭
 

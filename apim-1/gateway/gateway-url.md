@@ -12,8 +12,8 @@ description: 게이트웨이에 지정되는 URL 정보입니다. (쿠버네티�
 
 > 따라해보기.
 >
-> Gateway URL: rest-api.\<YOUR\_DOMAIN>
+> Gateway URL: <mark style="background-color:red;">rest-api.\<YOUR\_DOMAIN></mark>
 >
-> 이외의 모든 값은 기본값을 따릅니다.
+> 이외의 모든 값은 <mark style="background-color:red;">기본값</mark>을 따릅니다.
 >
-> GATEWAY URL 정보 저장 버튼 클릭.
+> <mark style="background-color:blue;">GATEWAY URL 정보 저장</mark> 버튼 클릭.

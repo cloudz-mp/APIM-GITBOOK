@@ -16,13 +16,15 @@ ZCP와 함께 사용하는 경우, `시스템 사용자 가져오기`를 통해�
 
 <figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption><p>시스템 사용자 가져오기 버튼</p></figcaption></figure>
 
-좌측 체크박스를 클릭하고, 시스템 사용자 가져오기를 클릭하여 나타나는 시스템 사용자 권한 설정 팝업에서 아래 5가지의 권한을 부여할 수 있습니다.
+좌측 체크박스를 클릭하고, 시스템 사용자 가져오기를 클릭하여 나타나는 시스템 사용자 권한 설정 팝업에서 아래 5가지의 권한을 부여할 수 있습니다. (SSO를 사용하지 않는 경우 3가지)
 
-* apim-admin: APIM 관리자
-* apim-member: APIM 멤버
-* devportal-admin: DEV. PORTAL 관리자
-* devportal-api-admin: DEV. PORTAL API 관리자
-* devportal-member: DEV. PORTAL 일반 사용자 권한
+| 이름                  | 설명                             |
+| ------------------- | ------------------------------ |
+| apim-admin          | APIM 관리자                       |
+| apim-member         | APIM 멤버 (SSO only)             |
+| devportal-admin     | DEV. PORTAL 관리자                |
+| devportal-api-admin | DEV. PORTAL API 관리자 (SSO only) |
+| devportal-member    | DEV. PORTAL 일반 사용자 권한          |
 
 부여하고자 하는 권한의 좌측 체크 박스에 체크하고, `시스템 사용자 권한 설정 및 가져오기`를 진행합니다.
 

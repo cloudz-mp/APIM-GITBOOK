@@ -14,16 +14,16 @@ API는 구성에 따라 개발자포탈을 통해 공개될 수 있습니다.
 
 > 따라해보기.
 >
-> API 이름: api-00
+> API 이름: <mark style="background-color:red;">api-00</mark>
 >
-> Gateway: gateway-00
+> Gateway: <mark style="background-color:red;">gateway-00</mark>
 >
-> Gateway URL: rest-api.
+> Gateway URL: <mark style="background-color:red;">rest-api.</mark>
 >
-> Base Path: game-00
+> Base Path: <mark style="background-color:red;">game-00</mark>
 >
-> Backend URL: service-2048.game-2048.svc.cluster.local:80
+> Backend URL: <mark style="background-color:red;">service-2048.game-2048.svc.cluster.local:80</mark>
 >
-> Developers Portal 게시: 체크
+> Developers Portal 게시: <mark style="background-color:red;">체크</mark>
 >
-> 이외의 모든 값은 기본 값을 따릅니다.
+> 이외의 모든 값은 <mark style="background-color:red;">기본값</mark>을 따릅니다.
