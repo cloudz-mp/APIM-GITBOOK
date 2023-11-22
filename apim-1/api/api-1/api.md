@@ -12,15 +12,9 @@ description: APIM에서 지원하는 API 정책에대해 알아봅니다.
 
 * Inbound 정책
 
-<table><thead><tr><th width="276">이름</th><th>설명</th></tr></thead><tbody><tr><td>ip-restriction</td><td></td></tr><tr><td>jwt</td><td></td></tr><tr><td>key-auth       </td><td></td></tr><tr><td>oidc</td><td></td></tr><tr><td>rate-limiting</td><td></td></tr><tr><td>request-termination</td><td></td></tr><tr><td>request-transformer</td><td></td></tr><tr><td>route-by-header</td><td></td></tr><tr><td>timeout</td><td></td></tr><tr><td>txid</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="219">이름</th><th>설명</th></tr></thead><tbody><tr><td>ip-restriction</td><td></td></tr><tr><td>jwt</td><td></td></tr><tr><td>key-auth       </td><td></td></tr><tr><td>oidc</td><td></td></tr><tr><td>rate-limiting</td><td></td></tr><tr><td>request-termination</td><td></td></tr><tr><td>request-transformer</td><td></td></tr><tr><td>route-by-header</td><td></td></tr><tr><td>timeout</td><td></td></tr><tr><td>txid</td><td></td></tr></tbody></table>
 
 * Outbound 정책
 
-| 이름                   | 설명 |
-| -------------------- | -- |
-| cors                 |    |
-| http-log             |    |
-| proxy-cache          |    |
-| response-transformer |    |
-| stdout-log           |    |
+<table><thead><tr><th width="219">이름</th><th>설명</th></tr></thead><tbody><tr><td>cors</td><td></td></tr><tr><td>http-log</td><td></td></tr><tr><td>proxy-cache</td><td></td></tr><tr><td>response-transformer</td><td></td></tr><tr><td>stdout-log</td><td></td></tr></tbody></table>
 
