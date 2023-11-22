@@ -8,7 +8,7 @@ API 상세 페이지는 Overview, API 문서, API Test 기능을 확인할 수 �
 
 ## Overview
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Overview에서는 Frontend와 Backend 그리고 게이트웨이 정책을 확인할 수 있습니다.
 
@@ -42,4 +42,4 @@ Method 변경을 통해 Rest API 호출 Method를 지원합니다. 오른쪽 아
 
 <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
