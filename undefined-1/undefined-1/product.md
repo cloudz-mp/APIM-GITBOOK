@@ -48,7 +48,7 @@ API 추가가 완료되면, 액션 기능이 활성화 됩니다. 각 액션은 
 >
 > 1.  Product 관리 홈에서 생성 버튼을 눌러 Product를 생성합니다.
 >
->     a. 이름: My Product 00
+>     &#x20;   \- <mark style="background-color:red;">이름: My Product 00</mark>
 > 2. 생성된 Product를 클릭하여 Product 상세로 이동합니다.
 > 3.  Product 상세 화면에서 API 탭을 클릭하여 전환하고, API를 추가합니다.
 >
