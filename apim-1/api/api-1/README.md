@@ -8,7 +8,7 @@ API 상세 페이지는 Overview, API 문서, API Test 기능을 확인할 수 �
 
 ## Overview
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Overview에서는 Frontend와 Backend 그리고 게이트웨이 정책을 확인할 수 있습니다.
 
@@ -20,7 +20,7 @@ Overview에서는 Frontend와 Backend 그리고 게이트웨이 정책을 확인
 
 Overview 중심에 위치한 `정책변경`버튼을 눌러 아래와 같은 화면을 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 각 정책에서 + 버튼을 눌러 미적용 박스에서 적용 박스로 이동 후 오른쪽 위의 저장 버튼을 눌러 API에 정책을 적용할 수 있습니다. 이때 적용 후, 반드시 새로운 배포를 진행해야 실제 API에 정책이 적용됩니다.
 
@@ -42,4 +42,4 @@ Method 변경을 통해 Rest API 호출 Method를 지원합니다. 오른쪽 아
 
 <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
