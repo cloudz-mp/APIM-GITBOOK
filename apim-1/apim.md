@@ -4,7 +4,7 @@ description: APIM의 주 기능을 제공하는 APIM 콘솔에 대하여 알아�
 
 # APIM 콘솔이란?
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 APIM 콘솔에서는 게이트웨이 생성으로 시작하여, 각 프로젝트에 생성된 게이트웨이에 등록되는 API의 관리를 지원합니다.
 

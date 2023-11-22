@@ -4,4 +4,4 @@ description: 상세 페이지에서는 이전 버전을 확인하거나 배포�
 
 # API 배포 현황 상세
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
