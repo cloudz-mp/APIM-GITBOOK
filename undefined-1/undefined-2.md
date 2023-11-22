@@ -6,7 +6,7 @@ description: 개발자 포탈 멤버의 역할에 대하여 알아봅니다.
 
 ## My Applications
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
 개발자 포탈 일반 사용자 권한을 가진 유저는 **Application** > **My Applications** 항목을 이용합니다.
 
