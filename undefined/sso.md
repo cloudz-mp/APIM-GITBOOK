@@ -6,7 +6,7 @@ description: APIM의 사용자 계정을 SSO를 이용하여 통합할 수 있�
 
 ## 시스템 사용자 가져오기
 
-ZCP와 함께 사용하는 경우, `시스템 사용자 가져오기`를 통해서 계정을 가져올 수 있습니다.
+ZCP와 함께 사용하는 경우, <mark style="background-color:blue;">시스템 사용자 가져오기</mark>를 통해서 계정을 가져올 수 있습니다.
 
 시스템 사용자 가져오기를 하기 위해서는 버튼 왼쪽의 검색 텍스트 박스에 내용을 입력하고 버튼을 눌러 가져옵니다.
 
@@ -26,6 +26,6 @@ ZCP와 함께 사용하는 경우, `시스템 사용자 가져오기`를 통해�
 | devportal-api-admin | DEV. PORTAL API 관리자 (SSO only) |
 | devportal-member    | DEV. PORTAL 일반 사용자 권한          |
 
-부여하고자 하는 권한의 좌측 체크 박스에 체크하고, `시스템 사용자 권한 설정 및 가져오기`를 진행합니다.
+부여하고자 하는 권한의 좌측 체크 박스에 체크하고, <mark style="background-color:blue;">시스템 사용자 권한 설정 및 가져오기</mark>를 진행합니다.
 
 <figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
