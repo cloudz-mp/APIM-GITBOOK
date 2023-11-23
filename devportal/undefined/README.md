@@ -12,7 +12,7 @@ description: 개발자 포털 멤버의 역할에 대하여 알아봅니다.
 
 API를 이용하기 위해서는 먼저 사용자만의 **My Application**을 생성해야 합니다.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 > 따라해보기.
 >
@@ -29,7 +29,7 @@ My Application을 생성하고 다음과 같은 화면에서 애플리케이션 
 
 ### **기본 정보**
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 기본 정보 화면에서 **Application 이름**과 **Application 아이콘**을 변경할 수 있습니다. 또한, **AppID**와 **생성일**을 확인할 수 있습니다.
 

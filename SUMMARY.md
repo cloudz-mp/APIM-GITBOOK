@@ -2,8 +2,7 @@
 
 ## APIM
 
-* [문의하기](README.md)
-* [APIM 톺아보기](apim/start-apim.md)
+* [APIM 톺아보기](README.md)
 
 ## 사용자 관리콘솔 <a href="#tmc" id="tmc"></a>
 
