@@ -3,6 +3,10 @@
 ## APIM
 
 * [APIM 톺아보기](README.md)
+* [시작 안내서](apim/getting-started-guide/README.md)
+  * [사용자 관리 콘솔 시작하기](apim/getting-started-guide/undefined.md)
+  * [APIM 콘솔 시작하기](apim/getting-started-guide/apim.md)
+  * [개발자 포털 시작하기](apim/getting-started-guide/undefined-1.md)
 
 ## 사용자 관리콘솔 <a href="#tmc" id="tmc"></a>
 
