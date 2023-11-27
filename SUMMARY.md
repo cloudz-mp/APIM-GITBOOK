@@ -4,13 +4,13 @@
 
 * [APIM 톺아보기](README.md)
 * [시작 안내서](apim/getting-started-guide/README.md)
-  * [사용자 관리 콘솔 시작하기](apim/getting-started-guide/undefined.md)
-  * [APIM 콘솔 시작하기](apim/getting-started-guide/apim.md)
-  * [개발자 포털 시작하기](apim/getting-started-guide/undefined-1.md)
+  * [사용자 관리 콘솔 시작하기](apim/getting-started-guide/tenant-manager-console.md)
+  * [APIM 콘솔 시작하기](apim/getting-started-guide/apim-console.md)
+  * [개발자 포털 시작하기](apim/getting-started-guide/undefined.md)
 
 ## 사용자 관리콘솔 <a href="#tmc" id="tmc"></a>
 
-* [사용자 관리 콘솔이란?](tmc/tenant-manager-console.md)
+* [사용자 관리콘솔이란?](tmc/tenant-manager-console.md)
 * [시스템 사용자 관리(SSO 통합하기)](tmc/tenant-manager-sso.md)
 * [시스템 사용자 관리(권한 및 상세 편집과 삭제)](tmc/tenant-manage.md)
 * [프로젝트 관리](tmc/project-manage.md)

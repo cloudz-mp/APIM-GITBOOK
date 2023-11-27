@@ -4,9 +4,7 @@ description: APIM 게이트웨이에 대한 메트릭을 모니터링 합니다.
 
 # Monitoring
 
-
-
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 APIM에서는 Prometheus를 통한 메트릭 수집을 통해 Grafana Dashboard로 모니터링 서비스를 제공합니다.
 

@@ -21,3 +21,6 @@ description: 프로젝트 상세 액션을 통해 이동한 화면에서 프로�
 > 따라해보기.
 >
 > 프로젝트 이름: <mark style="background-color:red;">project-00</mark>
+>
+> 사용자 이름 검색: <mark style="background-color:red;">admin</mark>
+

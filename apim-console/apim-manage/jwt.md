@@ -4,7 +4,7 @@ description: API jwt 정책의 JWT KEY를 관리합니다.
 
 # JWT
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>JWT 홈</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>JWT 홈</p></figcaption></figure>
 
 ## JWT 란?
 
