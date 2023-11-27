@@ -8,9 +8,9 @@ description: 사용자 관리 콘솔 기본 사용에 대하여 알아봅니다.
 
 ### 프로젝트 관리
 
-#### 프로젝트 생성
+#### 프로젝트 생성 <a href="#create-project" id="create-project"></a>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 프로젝트 관리 화면의 우측 상단 <mark style="background-color:blue;">프로젝트 생성하기</mark> 버튼을 통해 프로젝트 생성하기 화면으로 이동합니다.
 
@@ -24,7 +24,7 @@ description: 사용자 관리 콘솔 기본 사용에 대하여 알아봅니다.
 
 위와 같이 입력하여 아래와 같은 결과를 확인할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 프로젝트 관리 상세
 
@@ -46,7 +46,7 @@ description: 사용자 관리 콘솔 기본 사용에 대하여 알아봅니다.
 >
 > 4-3. 검색 박스 옆 <mark style="background-color:blue;">프로젝트 사용자 추가</mark> 버튼 클릭
 >
-> 4-4. 할당 권한에 <mark style="background-color:red;">apim-pjt-member</mark> APIM 프로젝트 멤버 체크박스 선택
+> 4-4. 할당 권한에 **apim-pjt-member APIM 프로젝트 멤버** <mark style="background-color:red;">체크박스</mark> 선택
 >
 > 4-5. <mark style="background-color:blue;">프로젝트 사용자 권한 설정 및 추가</mark> 클릭
 
