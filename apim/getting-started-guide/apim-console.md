@@ -50,6 +50,8 @@ APIM에서는 1개의 프로젝트에 1개의 게이트웨이를 생성하여 �
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
+### 게이트웨이 URL 생성
+
 5. 게이트웨이 이름을 눌러 **Gateway 생성 정보** 화면으로 이동합니다. 이 화면에서 생성된 게이트웨이 정보와 추가된 내용을 확인할 수 있습니다.
 6. **Gateway 생성 정보** 화면의 하단에서 Gateway URL 정보를 편집할 수 있습니다. <mark style="background-color:blue;">추가</mark> 버튼을 눌러 다음 단계를 진행합니다.
 
@@ -83,7 +85,7 @@ APIM에서는 1개의 프로젝트에 1개의 게이트웨이를 생성하여 �
 
 ***
 
-#### API 생성 <a href="#api-creation" id="api-creation"></a>
+### API 생성 <a href="#api-creation" id="api-creation"></a>
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
@@ -117,7 +119,7 @@ APIM에서는 1개의 프로젝트에 1개의 게이트웨이를 생성하여 �
 
 ***
 
-#### API 상세 <a href="#api-detail" id="api-detail"></a>
+### API 상세 <a href="#api-detail" id="api-detail"></a>
 
 10. API가 등록 성공하였다면, 아래와 같이 **API 상세** 페이지를 확인할 수 있습니다. 또한, **API 관리** 홈에서 API 이름을 눌러 각 **API 상세** 페이지로 이동할 수 있습니다.
 
@@ -131,7 +133,7 @@ APIM에서는 1개의 프로젝트에 1개의 게이트웨이를 생성하여 �
 
 ***
 
-#### API 정책 <a href="#api-policy" id="api-policy"></a>
+### API 정책 편집 <a href="#api-policy" id="api-policy"></a>
 
 12. API 정책을 적용해보도록 합니다. 가운데 녹색 박스에서 찾을 수 있는 <mark style="background-color:blue;">정책 변경</mark> 버튼을 눌러 API 정책 상세 페이지로 이동합니다.&#x20;
 
@@ -161,7 +163,7 @@ APIM에서는 1개의 프로젝트에 1개의 게이트웨이를 생성하여 �
 
 ***
 
-#### API 문서 <a href="#api-swagger" id="api-swagger"></a>
+### API 문서 편집 <a href="#api-swagger" id="api-swagger"></a>
 
 자동으로 스웨거 문서를 가져올 수 있지만, **JSON Editor**를 이용하여 직접 문서를 작성하거나 가져온 문서를 편집할 수 있습니다.
 
@@ -225,13 +227,13 @@ APIM에서는 1개의 프로젝트에 1개의 게이트웨이를 생성하여 �
 
 ***
 
-### API Document
+## API Document
 
 <figure><img src="../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
 
 왼쪽 메뉴에서 **API Document**를 눌러 배포된 API의 문서들을 조회할 수 있습니다.
 
-#### 배포된 스웨거 테스트하기 <a href="#swagger-test" id="swagger-test"></a>
+### 배포된 스웨거 테스트하기 <a href="#swagger-test" id="swagger-test"></a>
 
 17. [API 상세](apim-console.md#api-detail) 단계를 진행했다면, 배포된 API 문서를 확인할 수 있습니다. 조회된 API 이름을 눌러 **API Document 상세** 화면으로 이동합니다.
 
