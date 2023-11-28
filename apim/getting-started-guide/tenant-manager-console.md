@@ -10,7 +10,7 @@ description: 사용자 관리 콘솔 기본 사용에 대하여 알아봅니다.
 
 #### 프로젝트 생성 <a href="#create-project" id="create-project"></a>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 프로젝트 관리 화면의 우측 상단 <mark style="background-color:blue;">프로젝트 생성하기</mark> 버튼을 통해 프로젝트 생성하기 화면으로 이동합니다.
 
@@ -24,7 +24,7 @@ description: 사용자 관리 콘솔 기본 사용에 대하여 알아봅니다.
 
 위와 같이 입력하여 아래와 같은 결과를 확인할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 프로젝트 관리 상세
 

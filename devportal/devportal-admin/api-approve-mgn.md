@@ -4,7 +4,7 @@ description: API 사용 요청에 대한 승인과 반려를 관리합니다.
 
 # API 사용 요청 관리
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 프로젝트 관리자가 **My Application**에서 API를 사용하기 위해서 사용 요청을 보내면, 개발자 포털 관리자는 이곳에서 승인 또는 반려를 합니다.
 

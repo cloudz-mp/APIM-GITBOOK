@@ -8,11 +8,11 @@ description: APIM 콘솔 기본 사용에 대하여 알아봅니다.
 
 ***
 
-### Gateway 관리 <a href="#gateway-management" id="gateway-management"></a>
+## Gateway 관리 <a href="#gateway-management" id="gateway-management"></a>
 
 ***
 
-#### 게이트웨이 생성 <a href="#gateway-creation" id="gateway-creation"></a>
+### 게이트웨이 생성 <a href="#gateway-creation" id="gateway-creation"></a>
 
 APIM에서는 1개의 프로젝트에 1개의 게이트웨이를 생성하여 사용할 수 있습니다.
 
@@ -44,11 +44,11 @@ APIM에서는 1개의 프로젝트에 1개의 게이트웨이를 생성하여 �
 
 위 과정을 통해 아래와 유사한 화면을 확인할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. **Gateway 관리** 홈 화면으로 이동하면 생성 중이거나, 생성된 게이트웨이가 조회됩니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. 게이트웨이 이름을 눌러 **Gateway 생성 정보** 화면으로 이동합니다. 이 화면에서 생성된 게이트웨이 정보와 추가된 내용을 확인할 수 있습니다.
 6. **Gateway 생성 정보** 화면의 하단에서 Gateway URL 정보를 편집할 수 있습니다. <mark style="background-color:blue;">추가</mark> 버튼을 눌러 다음 단계를 진행합니다.
@@ -79,7 +79,7 @@ APIM에서는 1개의 프로젝트에 1개의 게이트웨이를 생성하여 �
 
 ***
 
-### API 관리 <a href="#api-management" id="api-management"></a>
+## API 관리 <a href="#api-management" id="api-management"></a>
 
 ***
 
@@ -137,8 +137,8 @@ APIM에서는 1개의 프로젝트에 1개의 게이트웨이를 생성하여 �
 
 <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-13. 이번 단계에서는 **request-transformer** 정책을 사용하여 커스텀 헤더를 추가해보도록 합니다. **request-transformer**의 <mark style="background-color:blue;">**+**</mark> 버튼을 눌러 해당 버튼을 왼쪽 **미적용 영역**에서 **오른쪽 적용** 영역으로 이동시킵니다.
-14. **request-transformer**에 대한 상세 내용을 구성합니다. **request-transformer** 버튼을 눌러 아래 **설정** 영역의 내용을 전환합니다.
+13. 이번 단계에서는 **response-transformer** 정책을 사용하여 커스텀 헤더를 추가해보도록 합니다. **response-transformer**의 <mark style="background-color:blue;">**+**</mark> 버튼을 눌러 해당 버튼을 왼쪽 **미적용 영역**에서 **오른쪽 적용** 영역으로 이동시킵니다.
+14. **response-transformer**에 대한 상세 내용을 구성합니다. **response-transformer** 버튼을 눌러 아래 **설정** 영역의 내용을 작성합니다.
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
@@ -154,6 +154,10 @@ APIM에서는 1개의 프로젝트에 1개의 게이트웨이를 생성하여 �
 > 17-1. 배포 버전 설명: <mark style="background-color:red;">정책 적용 배포</mark>
 >
 > 17-2. <mark style="background-color:blue;">확인</mark> 버튼 클릭
+>
+> 17-3. 배포된 URL 호출하여 헤더를 확인
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -161,7 +165,7 @@ APIM에서는 1개의 프로젝트에 1개의 게이트웨이를 생성하여 �
 
 자동으로 스웨거 문서를 가져올 수 있지만, **JSON Editor**를 이용하여 직접 문서를 작성하거나 가져온 문서를 편집할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 14. 위와 같이 **API 상세** 페이지의 중간 부분에서 <mark style="background-color:blue;">API 문서 - Swagger JSON Editor</mark>를 클릭하여 문서 편집기를 확장하고, 아래의 내용을 붙여넣습니다.
 
