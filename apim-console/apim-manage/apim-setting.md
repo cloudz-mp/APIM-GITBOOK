@@ -4,7 +4,7 @@ description: APIM 전체에 해당하는 설정을 관리합니다.
 
 # 설정
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 APIM 콘솔 전체에 해당하는 설정을 관리합니다. 항목은 다음과 같습니다.
 

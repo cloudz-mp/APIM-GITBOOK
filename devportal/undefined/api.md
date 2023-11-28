@@ -6,11 +6,11 @@ description: 애플리케이션에서 사용하는 API를 관리합니다.
 
 ## API 사용
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 API 사용 화면에서 <mark style="background-color:blue;">추가</mark> 버튼을 눌러 나타나는 모달 팝업을 통해 API 사용 신청을 할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 > 따라해보기.
 >
@@ -29,5 +29,5 @@ API 사용 화면에서 <mark style="background-color:blue;">추가</mark> 버�
 
 API 사용 승인 대기 상태에서는 **API URL** 정보가 보이지 않지만, 승인 후에는 확인할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

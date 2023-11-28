@@ -6,7 +6,7 @@ description: APIM에서 발생한 이벤트 목록을 조회하고, 상세 내�
 
 ## Event 홈
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 사전 정의된 APIM 이벤트가 발생시 로그는 자동으로 기록되며, 이 페이지에서 보이게 됩니다.
 

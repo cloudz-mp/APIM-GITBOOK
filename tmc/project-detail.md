@@ -2,11 +2,17 @@
 description: 프로젝트 상세 액션을 통해 이동한 화면에서 프로젝트 상세 정보를 확인하고, 사용자를 관리할 수 있습니다.
 ---
 
-# 프로젝트 상세(프로젝트 사용자 관리)
+# 프로젝트 상세
+
+## 프로젝트 상세 홈
 
 프로젝트 관리 홈에서 우측의 상세 액션 버튼을 통해 프로젝트 상세 화면으로 이동할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+## 프로젝트 사용자 관리
 
 해당 화면에서는 프로젝트 상세 정보를 확인할 수 있으며, 하단에서 프로젝트 사용자 관리를 할 수 있습니다.
 

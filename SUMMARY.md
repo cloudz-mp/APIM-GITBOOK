@@ -12,10 +12,10 @@
 
 * [사용자 관리콘솔이란?](tmc/tenant-manager-console.md)
 * [시스템 사용자 관리(SSO 통합하기)](tmc/tenant-manager-sso.md)
-* [시스템 사용자 관리(권한 및 상세 편집과 삭제)](tmc/tenant-manage.md)
+* [시스템 사용자 관리](tmc/tenant-manage.md)
 * [프로젝트 관리](tmc/project-manage.md)
 * [프로젝트 생성하기](tmc/project-create.md)
-* [프로젝트 상세(프로젝트 사용자 관리)](tmc/project-detail.md)
+* [프로젝트 상세](tmc/project-detail.md)
 
 ## APIM 콘솔 <a href="#apim-console" id="apim-console"></a>
 
@@ -52,16 +52,14 @@
 ## 개발자 포털 <a href="#devportal" id="devportal"></a>
 
 * [개발자 포털이란?](devportal/what-is-a-devportal.md)
-* [개발자 포털 관리자의 역할](devportal/devportal-admin/README.md)
+* [개발자 포털 관리자 역할](devportal/devportal-admin/README.md)
   * [Home 관리](devportal/devportal-admin/home-mgn.md)
   * [Menu 관리](devportal/devportal-admin/menu-mgn.md)
   * [Product 관리](devportal/devportal-admin/product-mgn.md)
   * [API 사용 요청 관리](devportal/devportal-admin/api-approve-mgn.md)
   * [개발자 포털 설정](devportal/devportal-admin/devportal-setting.md)
-* [개발자 포털 멤버의 역할](devportal/undefined/README.md)
+* [개발자 포털 멤버 역할](devportal/undefined/README.md)
   * [기본 정보](devportal/undefined/undefined.md)
   * [API KEY](devportal/undefined/api-key.md)
   * [API 사용](devportal/undefined/api.md)
   * [멤버 관리](devportal/undefined/undefined-1.md)
-* [애플리케이션 관리자의 역할](devportal/undefined-1.md)
-* [애플리케이션 멤버의 역할](devportal/undefined-2.md)

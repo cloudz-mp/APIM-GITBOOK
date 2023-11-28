@@ -4,7 +4,7 @@ description: 메뉴 구조를 설정하고, 메뉴별 Contents를 작성합니�
 
 # Menu 관리
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 개발자 포털 메뉴를 구성합니다. `메뉴 구조 설정` 오른편의 <mark style="background-color:blue;">+</mark> 버튼을 눌러 메뉴를 추가할 수 있습니다.&#x20;
 
