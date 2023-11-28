@@ -8,7 +8,7 @@ description: 애플리케이션을 사용하는 멤버 관리에 대하여 알�
 
 ### 멤버 추가와 삭제 그리고 관리자 지정
 
-<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 멤버 관리 화면에서 Application을 사용할 수 있는 일반 사용자를 추가 또는 제거 할 수 있습니다.
 
@@ -16,7 +16,7 @@ description: 애플리케이션을 사용하는 멤버 관리에 대하여 알�
 
 오른쪽 <mark style="background-color:blue;">추가</mark> 버튼을 눌러 나타나는 **추가할 멤버 선택** 모달 팝업에서 추가하고자 하는 사용자를 체크하고 <mark style="background-color:blue;">확인</mark> 버튼을 눌러 진행합니다.
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 > 따라해보기.
 >

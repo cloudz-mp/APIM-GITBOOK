@@ -4,7 +4,7 @@ description: 시스템 사용자 관리 화면에서 각각의 사용자에 대�
 
 # 시스템 사용자 관리(권한 및 상세 편집과 삭제)
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 시스템 사용자 관리 화면에서는 이미 가입된 사용자들의 정보를 확인할 수 있습니다.
 
@@ -14,11 +14,11 @@ description: 시스템 사용자 관리 화면에서 각각의 사용자에 대�
 
 * 권한: 각 계정의 권한을 편집할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 상세: 해당 계정의 상세 내용을 확인하거나 편집할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 삭제: 해당 계정을 제거합니다. (삭제된 계정은 복구할 수 없습니다.)
 
