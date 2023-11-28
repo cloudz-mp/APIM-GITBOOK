@@ -6,6 +6,8 @@ description: API key-auth 정책의 KEY를 관리합니다.
 
 <figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
+***
+
 ## API KEY AUTH 란?
 
 API KEY를 사용하기 전에 **key-auth** 정책에 대하여 먼저 알아봅니다.
@@ -18,7 +20,11 @@ REST API에서 key-auth는 API 요청에 인증키를 함께 전송하여 API에
 2. API 요청: 사용자는 API 요청 시 인증키를 함께 전송합니다. 인증키는 API 요청의 헤더 또는 쿼리 파라미터에 포함됩니다.
 3. 인증 확인: API를 제공하는 서버는 인증키를 확인하여 사용자의 인증 여부를 판단합니다. 인증키가 일치하면 API 요청을 처리하고, 그렇지 않으면 거부합니다. key-auth는 간단한 인증 방식으로, 보안성이 높지 않기 때문에 중요한 API에서는 사용하지 않는 것이 좋습니다.
 
+***
+
 ## key-auth 정책 사용하기
+
+***
 
 ### KEY 생성
 
@@ -35,6 +41,8 @@ key-auth 정책을 API에 적용하였다면, 인증을 위한 key를 발급받�
 목록에서 **Active** **활성화/비활성화**를 전환하여 해당 KEY 인증이 동작하지 않도록 할 수 있으며 사용에 주의해야 합니다.&#x20;
 
 또한, 가장 오른쪽의 <mark style="background-color:blue;">X</mark> 버튼으로 삭제할 수 있습니다.
+
+***
 
 ### key-auth 설정
 

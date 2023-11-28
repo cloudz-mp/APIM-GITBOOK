@@ -6,6 +6,8 @@ description: API jwt 정책의 JWT KEY를 관리합니다.
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>JWT 홈</p></figcaption></figure>
 
+***
+
 ## JWT 란?
 
 jwt 정책을 사용하기 위해서 먼저 JWT에 대해서 알아봅니다.
@@ -15,6 +17,8 @@ JSON Web Token (JWT)은 웹 표준으로, 데이터를 안전하게 전달하기
 JWT는 세 부분으로 구성됩니다: Header(헤더), Payload(내용), Signature(서명). 이 세 부분은 Base64 URL로 인코딩되어 하나의 문자열로 합쳐집니다.
 
 자세한 내용은 [jwt.io](https://jwt.io/)를  참고합니다.
+
+***
 
 ## jwt 정책 사용하기
 
@@ -45,6 +49,8 @@ RS256 알고리즘을 사용하는 경우 사용자 정의에 따라 Public KEY�
 홈 화면에서 조회된 목록에서 **Active** **활성화/비활성화**를 전환하여 해당 JWT KEY 인증이 동작하지 않도록 할 수 있으며 사용에 주의해야 합니다.&#x20;
 
 또한, 가장 오른쪽의 <mark style="background-color:blue;">X</mark> 버튼으로 삭제할 수 있습니다.
+
+***
 
 ### JWT 정책 사용 가이드
 
