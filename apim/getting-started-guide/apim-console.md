@@ -8,11 +8,11 @@ description: APIM 콘솔 기본 사용에 대하여 알아봅니다.
 
 ***
 
-### Gateway 관리
+### Gateway 관리 <a href="#gateway-management" id="gateway-management"></a>
 
 ***
 
-#### 게이트웨이 생성
+#### 게이트웨이 생성 <a href="#gateway-creation" id="gateway-creation"></a>
 
 APIM에서는 1개의 프로젝트에 1개의 게이트웨이를 생성하여 사용할 수 있습니다.
 
@@ -61,25 +61,29 @@ APIM에서는 1개의 프로젝트에 1개의 게이트웨이를 생성하여 �
 >
 > 6-3. Annotations <mark style="color:red;">**1**</mark> Key: <mark style="background-color:red;">alb.ingress.kubernetes.io/listen-ports</mark>&#x20;
 >
-> &#x20;      . Annotations <mark style="color:red;">**1**</mark> Value: <mark style="background-color:red;">\[{"HTTP": 80}]</mark>
+> &#x20;      . Annotations <mark style="color:red;">**1**</mark> Value: <mark style="background-color:red;">\[{"HTTP": 80}, {"HTTPS": 443}]</mark>
 >
-> 6-4. Annotations <mark style="color:orange;">**2**</mark> Key: <mark style="background-color:red;">alb.ingress.kubernetes.io/scheme</mark>
+> &#x20;      . Annotations 2 Key: <mark style="background-color:red;">alb.ingress.kubernetes.io/certificate-arn</mark>
 >
-> &#x20;      . Annotations <mark style="color:orange;">**2**</mark> Value: <mark style="background-color:red;">internet-facing</mark>
+> &#x20;      . Annotations 2 Value: <mark style="background-color:red;">arn:aws:acm:ap-northeast-2:068371015812:certificate/ea771172-5c6d-455f-b0ba-fed382fd0550</mark>
 >
-> 6-5. Annotations <mark style="color:green;">**3**</mark> Key: <mark style="background-color:red;">alb.ingress.kubernetes.io/target-type</mark>&#x20;
+> &#x20;      . Annotations <mark style="color:orange;">**3**</mark> Key: <mark style="background-color:red;">alb.ingress.kubernetes.io/scheme</mark>
 >
-> &#x20;      . Annotations <mark style="color:green;">**3**</mark> Value: <mark style="background-color:red;">ip</mark>
+> &#x20;      . Annotations <mark style="color:orange;">**3**</mark> Value: <mark style="background-color:red;">internet-facing</mark>
+>
+> &#x20;      . Annotations <mark style="color:green;">**4**</mark> Key: <mark style="background-color:red;">alb.ingress.kubernetes.io/target-type</mark>&#x20;
+>
+> &#x20;      . Annotations <mark style="color:green;">**4**</mark> Value: <mark style="background-color:red;">ip</mark>
 >
 > 6-6. <mark style="background-color:blue;">GATEWAY URL 정보 저장</mark> 클릭
 
 ***
 
-### API 관리
+### API 관리 <a href="#api-management" id="api-management"></a>
 
 ***
 
-#### API 생성
+#### API 생성 <a href="#api-creation" id="api-creation"></a>
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
@@ -113,7 +117,7 @@ APIM에서는 1개의 프로젝트에 1개의 게이트웨이를 생성하여 �
 
 ***
 
-#### API 상세
+#### API 상세 <a href="#api-detail" id="api-detail"></a>
 
 10. API가 등록 성공하였다면, 아래와 같이 **API 상세** 페이지를 확인할 수 있습니다. 또한, **API 관리** 홈에서 API 이름을 눌러 각 **API 상세** 페이지로 이동할 수 있습니다.
 
@@ -127,7 +131,7 @@ APIM에서는 1개의 프로젝트에 1개의 게이트웨이를 생성하여 �
 
 ***
 
-#### API 정책
+#### API 정책 <a href="#api-policy" id="api-policy"></a>
 
 12. API 정책을 적용해보도록 합니다. 가운데 녹색 박스에서 찾을 수 있는 <mark style="background-color:blue;">정책 변경</mark> 버튼을 눌러 API 정책 상세 페이지로 이동합니다.&#x20;
 
@@ -147,9 +151,13 @@ APIM에서는 1개의 프로젝트에 1개의 게이트웨이를 생성하여 �
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
+> 17-1. 배포 버전 설명: <mark style="background-color:red;">정책 적용 배포</mark>
+>
+> 17-2. <mark style="background-color:blue;">확인</mark> 버튼 클릭
+
 ***
 
-#### API 문서
+#### API 문서 <a href="#api-swagger" id="api-swagger"></a>
 
 자동으로 스웨거 문서를 가져올 수 있지만, **JSON Editor**를 이용하여 직접 문서를 작성하거나 가져온 문서를 편집할 수 있습니다.
 
@@ -184,8 +192,8 @@ APIM에서는 1개의 프로젝트에 1개의 게이트웨이를 생성하여 �
         }
       },
       "post": {
-        "summary": "없는 호출입니다",
-        "description": "스웨거 문서를 위한 존재하지 않는 호출입니다.",
+        "summary": "임시 호출입니다",
+        "description": "스웨거 문서를 위한 호출입니다.",
         "responses": {
           "404": {
             "description": "없는 호출입니다."
@@ -199,4 +207,35 @@ APIM에서는 1개의 프로젝트에 1개의 게이트웨이를 생성하여 �
 ```
 
 14. 내용을 작성하고 <mark style="background-color:blue;">Swagger 저장</mark> 버튼을 클릭합니다. 스웨거 문서를 편집한 후에는 반드시 오른쪽 위에 위치한 <mark style="background-color:blue;">Swagger 저장</mark> 버튼을 눌러야 변경 내용이 보존됩니다.
-15.
+15. 스웨거 문서가 있는 상태로 <mark style="background-color:blue;">API 배포</mark> 버튼을 눌러 다시 배포를 진행합니다.
+
+<figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+
+> 15-1. 배포 버전 설명: <mark style="background-color:red;">스웨거 문서 배포</mark>
+>
+> 15-2. <mark style="background-color:blue;">확인</mark> 버튼 클릭
+
+16. 아래와 같이 스웨거 문서가 저장된 것을 확인할 수 있습니다.
+
+<figure><img src="../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+### API Document
+
+<figure><img src="../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
+
+왼쪽 메뉴에서 **API Document**를 눌러 배포된 API의 문서들을 조회할 수 있습니다.
+
+#### 배포된 스웨거 테스트하기 <a href="#swagger-test" id="swagger-test"></a>
+
+17. [API 상세](apim-console.md#api-detail) 단계를 진행했다면, 배포된 API 문서를 확인할 수 있습니다. 조회된 API 이름을 눌러 **API Document 상세** 화면으로 이동합니다.
+
+<figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+
+18. 위와 유사한 화면에서 아래의 스웨거 문서의 동작 방식에 따라 배포된 API를 테스트 할 수 있습니다. 아래의 <mark style="background-color:blue;">**GET / 클라이언트 IP 조회**</mark>를 눌러 문서를 확장합니다.
+
+<figure><img src="../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
+
+19. 확장된 스웨거 문서에서 오른쪽 상단 <mark style="background-color:blue;">Try it out</mark> 버튼을 누르고 나타나는 <mark style="background-color:blue;">Execute</mark>를 눌러 실행되는 결과를 확인합니다.
+
