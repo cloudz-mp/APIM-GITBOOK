@@ -16,4 +16,4 @@ description: API 생성 시 기본으로 적용되는 정책에 대하여 사전
 
 ### API 정책에 대하여
 
-API 정책은 각각의 특징을 지닙니다. 자세한 내용은 [API 정책](../api/api-1/api.md#api-1)을 참고합니다.
+API 정책은 각각의 특징을 지닙니다. 자세한 내용은 [API 정책](../api-management/api-detail/policy.md#api-1)을 참고합니다.

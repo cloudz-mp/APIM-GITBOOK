@@ -31,7 +31,7 @@ Product를 생성하면 아래와 같이 목록에서 조회할 수 있으며, �
 
 <figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
-제품을 구성하는 API를 정의합니다. 오른편 <mark style="background-color:blue;">추가</mark> 버튼을 눌러 APIM 콘솔의 [**API 생성**](../../apim-console/api/api.md) 단계에서 진행한 **Developers Portal 게시**에 체크를 수행하고 배포한 경우 이곳에서 보입니다.\
+제품을 구성하는 API를 정의합니다. 오른편 <mark style="background-color:blue;">추가</mark> 버튼을 눌러 APIM 콘솔의 [**API 생성**](../../apim-console/api-management/create-api.md) 단계에서 진행한 **Developers Portal 게시**에 체크를 수행하고 배포한 경우 이곳에서 보입니다.\
 API를 Product에 추가하기 위해서 추가 버튼을 눌러 나타나는 모달창에서 해당하는 API를 체크하고 <mark style="background-color:blue;">API 추가</mark>를 진행합니다.
 
 <figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
